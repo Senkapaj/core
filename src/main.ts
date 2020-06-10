@@ -1,5 +1,6 @@
 import {Application, Client, config} from "./deps.ts";
 import {PostgresDatabase} from "./lib/db/PostgresDatabase.ts";
+import {responseTimeHeader} from "./middleware/ResponseTimeHeader.ts";
 
 config({path: "./.env", export: true});
 
@@ -10,6 +11,8 @@ const port = Deno.env.get("PORT") || 8080;
 
 const app = new Application();
 const db = new PostgresDatabase();
+
+app.use(responseTimeHeader);
 
 app.use(async (ctx) => {
     const query = "SELECT * FROM test;"

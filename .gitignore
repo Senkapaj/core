@@ -1,3 +1,5 @@
 .idea
 
+.env
+
 deno_dir/gen/file

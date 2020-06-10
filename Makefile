@@ -1,8 +1,8 @@
 run:
-	deno run --allow-net --allow-env src/main.ts
+	deno run --allow-net --allow-env --allow-read src/main.ts
 
 watch:
-	denon run --allow-net --allow-env src/main.ts
+	denon run --allow-net --allow-env --allow-read src/main.ts
 
 cache:
 	DENO_DIR=./deno_dir deno cache src/deps.ts

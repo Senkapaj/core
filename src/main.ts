@@ -1,5 +1,7 @@
-import {Application, Client} from "./deps.ts";
+import {Application, Client, config} from "./deps.ts";
 import {PostgresDatabase} from "./lib/db/PostgresDatabase.ts";
+
+config({path: "./.env", export: true});
 
 console.log("Starting Senkapaj Core...")
 
@@ -10,7 +12,6 @@ const app = new Application();
 const db = new PostgresDatabase();
 
 app.use(async (ctx) => {
-
     const query = "SELECT * FROM test;"
 
     try {

@@ -6,11 +6,11 @@ export class PostgresDatabase implements Database{
 
     constructor() {
         this.connection = new Client({
-            user: "senkapaj_root",
-            password: "password",
-            database: "senkapaj_core",
-            hostname: "localhost",
-            port: 5432
+            user: Deno.env.get("DB_USERNAME"),
+            password: Deno.env.get("DB_PASSWORD"),
+            database: Deno.env.get("DB_NAME"),
+            hostname: Deno.env.get("DB_HOST"),
+            port: parseInt(Deno.env.get("DB_PORT")!)
         });
     }
 

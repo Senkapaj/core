@@ -2,6 +2,7 @@ import {Application, Client, config} from "./deps.ts";
 import {PostgresDatabase} from "./lib/db/PostgresDatabase.ts";
 import {responseTimeHeader} from "./middleware/ResponseTimeHeader.ts";
 import {Server} from "./Server.ts";
+import {requestLogger} from "./middleware/RequestLogger.ts";
 
 config({path: "./.env", export: true});
 
@@ -13,6 +14,7 @@ const port = parseInt(Deno.env.get("PORT") ?? "8080");
 const server = new Server(host, port);
 const db = new PostgresDatabase();
 
+server.addMiddleware(requestLogger);
 server.addMiddleware(responseTimeHeader);
 
 // app.use(async (ctx) => {

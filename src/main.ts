@@ -1,4 +1,4 @@
-import {Application, Client, config} from "./deps.ts";
+import {Application, Client, config, Request, Response, Router} from "./deps.ts";
 import {PostgresDatabase} from "./lib/db/PostgresDatabase.ts";
 import {responseTimeHeader} from "./middleware/ResponseTimeHeader.ts";
 import {Server} from "./Server.ts";
@@ -14,9 +14,22 @@ const port = parseInt(Deno.env.get("PORT") ?? "8080");
 const server = new Server(host, port);
 const db = new PostgresDatabase();
 
-server.addMiddleware(requestLogger);
-server.addMiddleware(responseTimeHeader);
 
+server.getRouter().get("/test", (ctx) => {
+    ctx.response.body = "Hello World!"
+})
+
+await server.addMiddleware(requestLogger);
+await server.addMiddleware(responseTimeHeader);
+
+
+server.getRouter().get("/bla", (ctx) => {
+    window.setTimeout(function () {
+
+        console.log("Timeout")
+    }, 1000)
+    ctx.response.body = "Blub"
+})
 // app.use(async (ctx) => {
 //     const query = "SELECT * FROM test;"
 //

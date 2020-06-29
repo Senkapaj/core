@@ -191,4 +191,4 @@ export const STATUS_TEXT = new Map([
     [Status.NotExtended, "Not Extended"],
     [Status.NetworkAuthenticationRequired, "Network Authentication Required"],
 ]);
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/http/http_status.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/http/http_status.ts.js.map

@@ -12,4 +12,4 @@ export function getQuery(ctx, { mergeParams, asMap } = {}) {
     }
     return asMap ? new Map(Object.entries(result)) : result;
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/helpers.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/helpers.ts.js.map

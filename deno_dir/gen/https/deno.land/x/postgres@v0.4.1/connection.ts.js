@@ -493,4 +493,4 @@ export class Connection {
         delete this.packetWriter;
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/connection.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/connection.ts.js.map

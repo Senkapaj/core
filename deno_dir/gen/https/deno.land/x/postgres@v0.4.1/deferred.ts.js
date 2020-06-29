@@ -34,4 +34,4 @@ export class DeferredStack {
         return this._array.length;
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/deferred.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/deferred.ts.js.map

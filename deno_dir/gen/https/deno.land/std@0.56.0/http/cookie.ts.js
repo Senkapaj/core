@@ -99,4 +99,4 @@ export function delCookie(res, name) {
         expires: new Date(0),
     });
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/http/cookie.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/http/cookie.ts.js.map

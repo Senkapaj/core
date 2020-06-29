@@ -98,4 +98,4 @@ export function _format(sep, pathObject) {
         return dir + base;
     return dir + sep + base;
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/path/_util.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/path/_util.ts.js.map

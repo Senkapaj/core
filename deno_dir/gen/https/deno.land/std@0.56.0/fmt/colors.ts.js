@@ -173,4 +173,4 @@ const ANSI_PATTERN = new RegExp([
 export function stripColor(string) {
     return string.replace(ANSI_PATTERN, "");
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/fmt/colors.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/fmt/colors.ts.js.map

@@ -76,4 +76,4 @@ export class Pool {
         }
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/pool.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/pool.ts.js.map

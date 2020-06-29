@@ -42,4 +42,4 @@ export class PoolClient {
         await this._releaseCallback();
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/client.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/client.ts.js.map

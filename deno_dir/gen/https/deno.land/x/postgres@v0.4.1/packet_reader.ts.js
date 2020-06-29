@@ -39,4 +39,4 @@ export class PacketReader {
         return this.decoder.decode(slice);
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/packet_reader.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/packet_reader.ts.js.map

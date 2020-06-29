@@ -14,4 +14,4 @@ export { acceptable, acceptWebSocket, } from "https://deno.land/std@0.56.0/ws/mo
 // 3rd party dependencies
 export { contentType, extension, lookup, } from "https://deno.land/x/media_types@v2.3.5/mod.ts";
 export { compile, parse as pathParse, pathToRegexp, } from "https://raw.githubusercontent.com/pillarjs/path-to-regexp/v6.1.0/src/index.ts";
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/deps.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/deps.ts.js.map

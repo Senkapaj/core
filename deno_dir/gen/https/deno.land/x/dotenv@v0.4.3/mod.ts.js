@@ -78,4 +78,4 @@ export class MissingEnvVarsError extends Error {
         Object.setPrototypeOf(this, new.target.prototype);
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/dotenv@v0.4.3/mod.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/dotenv@v0.4.3/mod.ts.js.map

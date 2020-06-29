@@ -341,4 +341,4 @@ export class Sha1 {
         return buffer;
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/hash/sha1.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/hash/sha1.ts.js.map

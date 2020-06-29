@@ -72,4 +72,4 @@ export function isMediaType(value, types) {
     }
     return false;
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/isMediaType.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/isMediaType.ts.js.map

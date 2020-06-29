@@ -98,4 +98,4 @@ export function joinGlobs(globs, { extended = false, globstar = false } = {}) {
         return ".";
     return normalizeGlob(joined, { extended, globstar });
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/path/glob.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/path/glob.ts.js.map

@@ -41,4 +41,4 @@ export async function tempFile(dir, opts = { prefix: "", postfix: "" }) {
     });
     return { file, filepath };
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.51.0/io/util.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.51.0/io/util.ts.js.map

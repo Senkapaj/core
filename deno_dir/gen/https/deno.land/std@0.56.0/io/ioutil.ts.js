@@ -71,4 +71,4 @@ export function sliceLongToBytes(d, dest = new Array(8)) {
     }
     return dest;
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/io/ioutil.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/io/ioutil.ts.js.map

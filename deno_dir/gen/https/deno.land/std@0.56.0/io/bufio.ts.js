@@ -646,4 +646,4 @@ export async function* readStringDelim(reader, delim) {
 export async function* readLines(reader) {
     yield* readStringDelim(reader, "\n");
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/io/bufio.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/io/bufio.ts.js.map

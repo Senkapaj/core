@@ -151,4 +151,4 @@ export default function diff(A, B) {
         ...suffixCommon.map((c) => ({ type: DiffType.common, value: c })),
     ];
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.51.0/testing/diff.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.51.0/testing/diff.ts.js.map

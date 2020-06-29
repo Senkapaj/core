@@ -8195,4 +8195,4 @@ export const db = {
         compressible: true,
     },
 };
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/media_types@v2.3.5/db.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/media_types@v2.3.5/db.ts.js.map

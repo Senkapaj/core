@@ -167,4 +167,4 @@ export const Oid = {
     regrole: 4096,
     _regrole: 4097,
 };
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/oid.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/oid.ts.js.map

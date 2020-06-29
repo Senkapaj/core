@@ -283,4 +283,4 @@ export async function listenAndServeTLS(options, handler) {
         handler(request);
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/http/server.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/http/server.ts.js.map

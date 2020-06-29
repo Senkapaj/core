@@ -386,4 +386,4 @@ export function pathToRegexp(path, keys, options) {
         return arrayToRegexp(path, keys, options);
     return stringToRegexp(path, keys, options);
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/raw.githubusercontent.com/pillarjs/path-to-regexp/v6.1.0/src/index.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/raw.githubusercontent.com/pillarjs/path-to-regexp/v6.1.0/src/index.ts.js.map

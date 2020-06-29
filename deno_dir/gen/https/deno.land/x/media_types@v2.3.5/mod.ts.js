@@ -117,4 +117,4 @@ export function extension(type) {
     }
     return exts[0];
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/media_types@v2.3.5/mod.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/media_types@v2.3.5/mod.ts.js.map

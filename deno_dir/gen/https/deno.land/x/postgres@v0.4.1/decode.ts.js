@@ -214,4 +214,4 @@ export function decode(value, column) {
         throw new Error(`Unknown column format: ${column.format}`);
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/decode.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/postgres@v0.4.1/decode.ts.js.map

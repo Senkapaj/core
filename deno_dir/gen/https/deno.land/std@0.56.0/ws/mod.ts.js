@@ -423,4 +423,4 @@ export async function connectWebSocket(endpoint, headers = new Headers()) {
 export function createWebSocket(params) {
     return new WebSocketImpl(params);
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/ws/mod.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/ws/mod.ts.js.map

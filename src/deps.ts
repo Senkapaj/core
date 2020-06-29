@@ -5,3 +5,4 @@ export { Client } from "https://deno.land/x/postgres@v0.4.1/mod.ts";
 export { QueryResult } from "https://deno.land/x/postgres@v0.4.1/query.ts";
 
 export { config } from "https://deno.land/x/dotenv@v0.4.3/mod.ts";
+export { Drash } from "https://deno.land/x/drash@v1.0.6/mod.ts";

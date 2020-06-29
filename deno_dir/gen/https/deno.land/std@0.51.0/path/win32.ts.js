@@ -878,4 +878,4 @@ export function fromFileUrl(url) {
         .replace(/^\/*([A-Za-z]:)(\/|$)/, "$1/")
         .replace(/\//g, "\\");
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.51.0/path/win32.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.51.0/path/win32.ts.js.map

@@ -69,4 +69,4 @@ export function parse(str) {
     }
     return new MediaType(type, subtype, suffix);
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/mediaTyper.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/mediaTyper.ts.js.map

@@ -37,4 +37,4 @@ export function compareSpecs(a, b) {
 export function isQuality(spec) {
     return spec.q > 0;
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/negotiation/common.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/negotiation/common.ts.js.map

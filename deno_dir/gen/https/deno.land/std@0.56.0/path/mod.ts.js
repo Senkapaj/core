@@ -12,4 +12,4 @@ export * from "./common.ts";
 export { SEP, SEP_PATTERN } from "./separator.ts";
 export * from "./_interface.ts";
 export * from "./glob.ts";
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/path/mod.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/path/mod.ts.js.map

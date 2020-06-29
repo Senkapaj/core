@@ -98,4 +98,4 @@ export class Sha1Hash {
         return data;
     }
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/checksum@1.2.0/sha1.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/checksum@1.2.0/sha1.ts.js.map

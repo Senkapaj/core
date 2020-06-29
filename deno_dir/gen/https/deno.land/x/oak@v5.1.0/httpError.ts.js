@@ -117,4 +117,4 @@ export function createHttpError(status = 500, message) {
 export function isHttpError(value) {
     return value instanceof HttpError;
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/httpError.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/httpError.ts.js.map

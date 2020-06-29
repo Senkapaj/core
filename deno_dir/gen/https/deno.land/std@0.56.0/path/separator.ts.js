@@ -3,4 +3,4 @@
 import { isWindows } from "./_constants.ts";
 export const SEP = isWindows ? "\\" : "/";
 export const SEP_PATTERN = isWindows ? /[\\/]+/ : /\/+/;
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/path/separator.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/std@0.56.0/path/separator.ts.js.map

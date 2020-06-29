@@ -27,4 +27,4 @@ export function compare(a, b) {
     const bh = (new HmacSha256(key)).update(b).arrayBuffer();
     return compareArrayBuffer(ah, bh);
 }
-//# sourceMappingURL=file:///home/marian/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/tssCompare.ts.js.map
+//# sourceMappingURL=file:///Users/marianhahne/Code/Senkapaj/core/deno_dir/gen/https/deno.land/x/oak@v5.1.0/tssCompare.ts.js.map

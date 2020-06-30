@@ -1,5 +1,10 @@
-FROM drentech/deno:1.1.0
+FROM node:12
 
-COPY . /app
+WORKDIR /app
 
-ENTRYPOINT deno run --allow-net --allow-env --allow-read src/main.ts
+COPY . .
+RUN npm install
+RUN npm run build
+
+EXPOSE 3000
+CMD npm run start:prod

@@ -2,4 +2,6 @@
 
 .env
 
-deno_dir/gen/file
+dist
+
+node_modules

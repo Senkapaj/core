@@ -1,0 +1,16 @@
+type App {
+    id: Int!,
+    name: String!,
+    host: String!,
+    port: Int,
+    description: String
+}
+
+type Query {
+    app(id: Int!): App
+    appByName(name: String!): App
+}
+
+type Mutation {
+    createApp(name: String!, host: String!, port: Int, description: String): App
+}
